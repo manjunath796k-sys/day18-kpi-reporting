@@ -1,0 +1,74 @@
+CustomerID,CustomerName,Region,Segment,JoinDate
+1,Ananya Das,East,Corporate,2023-08-19
+2,Aarav Sharma,South,Consumer,2022-03-15
+3,Saanvi Reddy,South,Consumer,2023-09-01
+4,Aditya Reddy,South,Consumer,2022-02-09
+5,Rahul Reddy,North,Consumer,2022-04-10
+6,Vivaan Singh,South,Consumer,2022-10-18
+7,Deepak Khan, West ,Consumer,2023-02-23
+8,Isha Reddy,East,Consumer,2024-02-05
+9,Karthik Patel,West,Consumer,2022-09-13
+10,Sai Patel,West,Consumer,2022-07-06
+11,Riya Verma,South,Corporate,2024-02-20
+12,Sneha Verma,,Consumer,2022-11-01
+13,Rohan Iyer,West,Consumer,2023-09-08
+14,Reyansh Das,West,Consumer,2022-08-11
+15,Reyansh Verma,West,Consumer,2023-06-24
+16,Myra Sharma,East,Corporate,2024-03-26
+17,Ishaan Das,North,Consumer,2022-11-12
+18,Krishna Khan,South,Corporate,2024-04-16
+19,Isha Nair,Central,Consumer,2022-11-20
+20,Karthik Reddy,north,Corporate,2022-11-16
+21,Deepak Singh,North,Consumer,2024-06-03
+22,Isha Das,,Consumer,2022-03-18
+23,Pooja Verma,,Corporate,2023-03-05
+24,Vihaan Verma,South,Corporate,2023-04-27
+25,Sai Iyer,North,Consumer,2023-07-17
+26,Pooja Khan,East,Consumer,2023-06-15
+27,Rahul Singh,South,,2023-02-15
+28,Pooja Patel,West,Corporate,2023-03-19
+29,Vihaan Gupta,South,Home Office,2022-09-17
+30,Arjun Reddy,West,Home Office,2024-05-05
+31,Sai Das,North,Corporate,2023-11-05
+32,Saanvi Nair,West,Consumer,2024-02-11
+33,Naveen Das,West,Consumer,2024-05-05
+34,Naveen Sharma,South,Home Office,2022-05-17
+35,Reyansh Nair,South,Corporate,2023-06-04
+36,Ishaan Das,South,Corporate,2022-05-18
+37,Riya Reddy,Central,Consumer,2023-08-25
+38,Isha Singh,Central,Corporate,2023-01-19
+39,Kiara Verma,Central,Consumer,2022-06-02
+40,Kiara Gupta,North,Corporate,2024-01-18
+41,Ananya Iyer,Central,Corporate,2024-05-16
+42,Ishaan Reddy,East,Consumer,2024-02-09
+43,Kiara Sharma,South,Home Office,2022-11-27
+44,Divya Gupta,West,Corporate,2022-02-09
+45,Vivaan Gupta,West,Corporate,2022-10-21
+46,Naveen Khan,South,Consumer,2023-09-02
+47,Divya Sharma,East,Corporate,2022-10-14
+48,Aditya Patel,Central,Home Office,2023-07-05
+49,Aditya Khan,East,Consumer,2023-04-26
+50,Deepak Khan, Central ,Consumer,2023-02-08
+51,Reyansh Sharma,central,Consumer,2024-04-26
+52,Myra Gupta,West,Consumer,2023-10-01
+53,Aarav Iyer, South ,Consumer,2023-05-09
+54,Aarav Nair, West ,Corporate,2023-01-13
+55,Pooja Gupta,,,2022-04-17
+56,Myra Singh,West,Consumer,2023-01-27
+57,Vivaan Patel,North,Home Office,2023-04-20
+58,Karthik Das,West,Consumer,2024-06-07
+59,Arun Verma,West,Consumer,2022-09-14
+60,Priya Singh,Central,Corporate,2022-01-21
+61,Aditya Sharma,west,Corporate,2023-12-18
+62,Sai Gupta,North,Home Office,2023-05-31
+63,Tara Das, East ,Home Office,2023-02-06
+64,Arun Singh,West,Corporate,2022-02-19
+65,Pooja Iyer,North,Consumer,2024-01-16
+66,Myra Patel,South,Corporate,2023-10-23
+67,Saanvi Iyer,Central,Home Office,2023-02-15
+68,Myra Patel,Central,Consumer,2024-04-12
+69,Rahul Gupta,north,,2022-02-02
+70,Rohan Patel,West,Consumer,2023-03-12
+66,Myra Patel,South,Corporate,2023-10-23
+27,Rahul Singh,South,,2023-02-15
+67,Saanvi Iyer,Central,Home Office,2023-02-15
